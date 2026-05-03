@@ -1,3 +1,10 @@
+> 📦 **Archived 2026-05-03** — Tier 3-E (Fork)
+> **원본**: [boostcampaitech7/level2-nlp-generationfornlp-nlp-05-lv3](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-05-lv3)
+> **Fork 맥락**: 네이버 부스트캠프 AI Tech 7기 NLP 트랙 - 수능형 문제 풀이 모델 (Public/Private 리더보드 1위)
+> **자산**: 수능형 NLP 모델 reference. 한국어 수능 국어/사회 문제 풀이 모델 우승작
+> **Unarchive**: `gh repo unarchive smilepat/<name>`
+
+---
 <div align='center'>
 
   # 🏆 LV.2 NLP 프로젝트 : 수능형 문제 풀이 모델 생성
